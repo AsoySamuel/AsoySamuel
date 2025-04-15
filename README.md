@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Samuel!
 
 A future web developer passionate about building cool things on the web.  
-Currently learning HTML, CSS, JavaScript, and diving into frameworks like React and Node.js.  
+Currently learning HTML, CSS, JavaScript, and diving into frameworks like React 
 Excited to grow, create, and share my journey with the world!
 
 ---
